@@ -17,3 +17,6 @@ Known problems:
 -the graphics are processed purely in the cpu, and inefficiently at that, such that I keep the game in its current state limited to 5 frames per second. While I could make this more efficient, I want to use the graphics card too, and am leaving this until I've learned enough OpenGL to replace the Windows API portions of the program.
 
 -this includes an algorithm for pathing that causes people to navigate in the shortest route around any impassable terrain, but as of right now I'm still working the bugs out of it, so I just have this version ignore impassable terrain.
+
+There are a few screenshots (filenames begin with SCREENSHOT) of what it looks like when it runs.
+
